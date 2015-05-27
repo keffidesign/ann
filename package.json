@@ -1,0 +1,25 @@
+{
+  "name": "ANN",
+  "version": "1.0.0",
+  "description": "Artificial Neural Network",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keffidesign/ann.git"
+  },
+  "author": "Igor Obuhovski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keffidesign/ann/issues"
+  },
+  "homepage": "https://github.com/keffidesign/ann",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  },
+  "dependencies": {
+    "babel-runtime": "^5.4.7"
+  }
+}
