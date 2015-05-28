@@ -20,6 +20,8 @@
     "gulp": "^3.8.11"
   },
   "dependencies": {
-    "babel-runtime": "^5.4.7"
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.1.0",
+    "gulp-clean": "^0.3.1"
   }
 }
