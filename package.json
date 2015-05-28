@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/keffidesign/ann",
   "devDependencies": {
-    "gulp": "^3.8.11"
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.1.0",
+    "gulp-clean": "^0.3.1"
   },
   "dependencies": {
     "babel-runtime": "^5.4.7"
