@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/keffidesign/ann",
   "devDependencies": {
-    "gulp": "^3.8.11"
+    "gulp": "^3.8.11",
+    "gulp-nodemon": "^2.0.3"
   },
   "dependencies": {
     "express": "^4.12.4",

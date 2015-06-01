@@ -1,4 +1,4 @@
-class Percepton {
+export default class Percepton {
 
 	constructor() {
 

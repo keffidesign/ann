@@ -1,3 +1,3 @@
-import Percepton from 'Percepton.js';
+// import Percepton from 'Percepton.js';
 
-console.log(new Percepton());
+console.log('ann.js');
